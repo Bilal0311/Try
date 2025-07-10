@@ -5,3 +5,4 @@ ipykernel
 seaborn
 joblib
 streamlit
+xgboost
