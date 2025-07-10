@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 
 # Load model
-model = joblib.load("../models/churn_xgb_model.pkl")
+model = joblib.load("models/churn_xgb_model.pkl")
 
 # App title
 st.title("Customer Churn Prediction App")
